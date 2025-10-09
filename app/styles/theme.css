@@ -1,15 +1,15 @@
 :root {
   --oui-font-family: 'Manrope', sans-serif;
-  --oui-font-size-base: 14px;
+  --oui-font-size-base: 16;
 
   /* colors */
   --oui-color-primary: 0 95 181;
-  --oui-color-primary-light: 132 155 221;
-  --oui-color-primary-darken: 0 54 178;
+  --oui-color-primary-light: 131 170 221;
+  --oui-color-primary-darken: 0 91 181;
   --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 189 189 255;
-  --oui-color-link-light: 217 217 255;
+  --oui-color-link-light: 219 237 255;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 240 240 240;
@@ -96,5 +96,5 @@
 
 html, body {
   font-family: 'Manrope', sans-serif !important;
-  font-size: 14px !important;
+  font-size: 16 !important;
 }
